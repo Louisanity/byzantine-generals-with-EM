@@ -2,13 +2,17 @@
 
 This tracker is used as a to-do list and track what have been done.
 
-### Benchmarking
+### Backend Benchmarking
 
 | Task                    | Assign to ? | Done? |
 | ----------------------- | ----------- | ----- |
-| variance of the dataset |             |       |
-|                         |             |       |
-|                         |             |       |
+| QASM_Simulator          |             |       |
+| Fake Backend            |             |       |
+| Perth (7 qubits)        |             |       |
+| Lagos (7 qubits)        |             |       |
+| Nairobi (7 qubits)      |             |       |
+| Jarkata (7 qubits)      |             |       |
+| Guadalupe (16 qubits)   |             |       |
 
 ### Visualization
 
@@ -18,7 +22,7 @@ This tracker is used as a to-do list and track what have been done.
 |      |             |       |
 |      |             |       |
 
-### Error correction
+### Error Mitigation Comparison
 
 | Task | Assign to ? | Done? |
 | ---- | ----------- | ----- |
