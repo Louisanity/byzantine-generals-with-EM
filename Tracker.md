@@ -9,9 +9,9 @@ This tracker is used as a to-do list and track what have been done.
 | QASM_Simulator          |             |       |
 | Fake Backend            |             |       |
 | Perth (7 qubits)        |             |       |
-| Lagos (7 qubits)        |             |       |
-| Nairobi (7 qubits)      |             |       |
-| Jarkata (7 qubits)      |             |       |
+| Lagos (7 qubits)        |             |   v   |
+| Nairobi (7 qubits)      |             |   v   |
+| Jarkata (7 qubits)      |             |   v   |
 | Guadalupe (16 qubits)   |             |       |
 
 ### Visualization
